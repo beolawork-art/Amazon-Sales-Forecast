@@ -16,4 +16,4 @@ I used three different tools to help Amazon understand its sales:
 * `queries.sql`: The SQL code used to find sales trends.
 * `dashboard.pbix`: My interactive Power BI charts.
 * ## 📊 Dashboard Preview
-![Amazon Sales Dashboard](dashboard_preview.png)
+[Amazon Sales Dashboard](Dashboard_preview.png)
